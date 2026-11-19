@@ -1,0 +1,14 @@
+Source registry: https://registry.npmjs.org/typescript/7.0.2
+Official tarball: https://registry.npmjs.org/typescript/-/typescript-7.0.2.tgz
+
+Registry-published integrity for typescript-7.0.2.tgz:
+  SRI:    sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==
+  SHA-1:  9ec773d7954a8c182c17cc5bbd575aa28bc51582
+
+SHA-256 of local files (hex):
+  da2513f4b95176d6dde8b51aab7afe8a927656c9d277369793f77f7e59371c08  typescript-7.0.2.tgz
+  a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47  LICENSE
+  f5c708b59114507b8b27b48181b6883d106bbca0c1634bbee45b5e344237b66b  NOTICE.txt
+  ec9ee83580841e8eb687aca9867f221503809ba6426c7f876ede17d91b9fcfd0  vendor/vscode-jsonrpc/License.txt
+
+The registry publishes SRI and SHA-1 for the whole archive, not per-file hashes. SHA-256 values for extracted files are calculated over the exact bytes from that archive; the archive-level integrity anchors their source.

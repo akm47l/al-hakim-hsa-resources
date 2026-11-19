@@ -1,0 +1,49 @@
+{
+  "name": "typescript",
+  "version": "7.0.2",
+  "registry_license": "Apache-2.0",
+  "source_page": "https://www.npmjs.com/package/typescript/v/7.0.2",
+  "registry_metadata": "https://registry.npmjs.org/typescript/7.0.2",
+  "source_repository": "https://github.com/microsoft/TypeScript",
+  "tarball_url": "https://registry.npmjs.org/typescript/-/typescript-7.0.2.tgz",
+  "tarball_filename": "typescript-7.0.2.tgz",
+  "tarball_bytes": 365612,
+  "registry_dist": {
+    "integrity": "sha512-8FYau96o3NKOhbjKi/qNvG/W5jhzxkbdm5sj9AbZ/5T5sWqn3hJgLfGx27sRKZWTvyzCP8dLRBTf5tBTSRVUNA==",
+    "shasum_sha1": "9ec773d7954a8c182c17cc5bbd575aa28bc51582",
+    "fileCount": 416
+  },
+  "verified_local": {
+    "sha512_sri_match": true,
+    "sha1_match": true,
+    "gzip_stream_check": true,
+    "archive_file_count_match": true,
+    "package_name_version_license_match": true,
+    "verified_on": "2026-11-20"
+  },
+  "tarball_sha256": "da2513f4b95176d6dde8b51aab7afe8a927656c9d277369793f77f7e59371c08",
+  "extracted_upstream_files": [
+    {
+      "archive_path": "package/LICENSE",
+      "local_path": "LICENSE",
+      "bytes": 9197,
+      "sha256": "a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47"
+    },
+    {
+      "archive_path": "package/NOTICE.txt",
+      "local_path": "NOTICE.txt",
+      "bytes": 48860,
+      "sha256": "f5c708b59114507b8b27b48181b6883d106bbca0c1634bbee45b5e344237b66b"
+    },
+    {
+      "archive_path": "package/vendor/vscode-jsonrpc/License.txt",
+      "local_path": "vendor/vscode-jsonrpc/License.txt",
+      "bytes": 1095,
+      "sha256": "ec9ee83580841e8eb687aca9867f221503809ba6426c7f876ede17d91b9fcfd0"
+    }
+  ],
+  "notes": [
+    "The npm registry's integrity covers the complete .tgz; per-file SHA-256 values are computed over the exact bytes extracted from that verified archive.",
+    "No GitHub-tag license file was copied because the fetched v7.0.2 raw package.json reported version 6.0.0 and the fetched contents API linked to main."
+  ]
+}
